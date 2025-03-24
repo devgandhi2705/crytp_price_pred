@@ -1,0 +1,22 @@
+.container {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    color: #ffcc00;
+}
+
+.price {
+    font-size: 24px;
+    color: #00ff00;
+}
+
+.trade-status {
+    font-size: 18px;
+    color: #ff5733;
+}
